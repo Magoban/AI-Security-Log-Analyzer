@@ -17,3 +17,7 @@ python3 fetch_graylog_logs.py
 python3 preprocess_logs.py  
 python3 hf_ai_log_analysis.py  
 ```
+
+**Want to start building your detection lab from scratch? Check out my detection lab post**:
+
+[Detection-Lab](https://github.com/Magoban/Detection-Lab)
